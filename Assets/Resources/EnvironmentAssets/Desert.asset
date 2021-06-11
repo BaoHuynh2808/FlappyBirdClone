@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc0a05a6998688408f8a027bd0386f1, type: 3}
+  m_Name: Desert
+  m_EditorClassIdentifier: 
+  environmentType: 0
+  topBlockSprite: {fileID: 21300000, guid: 3dcfeb4e7a2944375a9be7104a627aa6, type: 3}
+  downBlockSprite: {fileID: 21300000, guid: 0f6a7882cf22d4c5ebba68436a691769, type: 3}
+  cloudSprite: {fileID: 21300000, guid: 295de526cba4841bdbffa1820f841752, type: 3}
+  mountainSprite: {fileID: 21300000, guid: bba228e370fa24e1390603bbea08e47f, type: 3}
+  forGroundSprite: {fileID: 21300000, guid: 6632a59647e074121b3c5530d63647ef, type: 3}
+  midGroundSpirte: {fileID: 21300000, guid: f77ebe487a56245c093312a281006b08, type: 3}
+  floorSprite: {fileID: 21300000, guid: c56b76b6ff8224d1788cf702b6155ffd, type: 3}
+  skypeSprite: {fileID: 21300000, guid: 0944a933f30374e96bd409d2937b280f, type: 3}

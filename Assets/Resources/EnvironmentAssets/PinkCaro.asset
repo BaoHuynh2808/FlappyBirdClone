@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc0a05a6998688408f8a027bd0386f1, type: 3}
+  m_Name: PinkCaro
+  m_EditorClassIdentifier: 
+  environmentType: 1
+  topBlockSprite: {fileID: 21300000, guid: 488a927f283ec489386db667c5b0939a, type: 3}
+  downBlockSprite: {fileID: 21300000, guid: 760e7ecffc8de446584d3ff986d443a0, type: 3}
+  cloudSprite: {fileID: 21300000, guid: bc6f1e175debf4139a4fd501c8ef6c9e, type: 3}
+  mountainSprite: {fileID: 21300000, guid: 30b676008d2e84fd68c05129cb68718a, type: 3}
+  forGroundSprite: {fileID: 21300000, guid: 98faea71df2084796856b7213d9ab7b1, type: 3}
+  midGroundSpirte: {fileID: 21300000, guid: eefc064ba6b0f4db8b33f265c9d1d354, type: 3}
+  floorSprite: {fileID: 21300000, guid: d4e84129b9de1418ca81e8545a6b1378, type: 3}
+  skypeSprite: {fileID: 21300000, guid: 7eb86768316e2410daa920369f670cbb, type: 3}
