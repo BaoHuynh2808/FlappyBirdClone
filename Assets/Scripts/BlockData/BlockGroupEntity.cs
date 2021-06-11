@@ -37,7 +37,7 @@ public class BlockGroupEntity : MonoBehaviour
             blockTops[currentTopBlockCreatedIndex].gameObject.SetActive(false);
             blockDowns[currentDownBlockCreatedIndex].gameObject.SetActive(false);
 
-            CreateBlock(EnvironmentType.Desert);
+            CreateBlock(GameController.Instance.environmentType);
         }
     }
 

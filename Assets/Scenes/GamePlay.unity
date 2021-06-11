@@ -1724,7 +1724,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _birdAnimator: {fileID: 247661549}
-  _birdFlyUpSpeed: 100
+  _birdFlyUpSpeed: 20
   _birdFallDownSpeed: 2
   _birdSpriteRenderer: {fileID: 247661548}
 --- !u!1 &253721286
